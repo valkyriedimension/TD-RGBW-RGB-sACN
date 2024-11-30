@@ -5,4 +5,4 @@ This example makes use of TouchDesigner forum user [flowb's](https://forum.deriv
 
 https://forum.derivative.ca/t/top-to-chop-rgbw/8687/3
 
-![Image of node network](https://github.com/valkyriedimension/TD-RGBW-RGB-sACN/blob/main/TD_Network.png?raw=true)
+![Image of node network](https://github.com/valkyriedimension/TD-RGBW-RGB-sACN/blob/main/TD_Network_v2.png?raw=true)
